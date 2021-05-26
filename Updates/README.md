@@ -17,3 +17,13 @@ Academy I got some experience with a similar mechanism to what we are attempting
 and when I gave it a decent push with my finger. I was thinking that it might be possible to have an air assisted coil gun, where it would function as a hybrid between a coil gun 
 and an air gun. One concern about this that I have is that I don't have that much knowledge about the way air pressure works, so I’m concerned that when the coils begin to speed 
 up the projectile, it may end up being fast enough to pull a vacuum in the chamber slowing down the projectile. 
+
+## 5/13/21
+Today we are going to be coding the relay. Nevermind we ended up sanding the photointerrupters and getting them level with each other. The test did not yield any results unfortunately, but we know the relay works.
+
+## 5/19/21
+Today we are continuing to code the relay. Last time we worked on this we found a perfect copper piece to wrap the wire around, which is just the right size for the half inch piece of steel to fit inside. We also set up photointerrupters on our temporary coil to work with the relay that we couldn’t get working. The photointerrupters unfortunately didn’t work, so today we will test ones that have not been separated, using the same code that we were using to test the separated ones. So far the photo interrupter testing has not gone well. We have definitely wired it correctly, but the code does not yield the right results. We popped the LED in one photo interrupter because of a lack of a resistor. We finally figured out what was wrong with the code. We hadn’t been running it on the code.py file. We got the code working, but are still struggling with wiring.
+
+## 5/20/21
+### Milestone: Finishing our first photo interrupter + relay test
+Today we finally managed to both wire the photo interrupter to the coil and get it working, as well as wiring the relay and get it working. We were able to develop code to make these things work in tandem with each other, and now when the interrupter is interrupted it will set off the relay. We did break a lot of photo interrupters in the process but it feels good to finally get it working. The code we developed today is pictured below.
