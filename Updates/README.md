@@ -1,5 +1,5 @@
 ## 5/12/21
-Milestone: Battery vs. Power Supply vs. Capacitor
+### Milestone: Battery vs. Power Supply vs. Capacitor
 
 
 Today we did a little testing regarding whether we wanted to use a battery or a capacitor to power the coils we are using to propel the steel object. When testing our 4 
@@ -27,3 +27,7 @@ Today we are continuing to code the relay. Last time we worked on this we found 
 ## 5/20/21
 ### Milestone: Finishing our first photo interrupter + relay test
 Today we finally managed to both wire the photo interrupter to the coil and get it working, as well as wiring the relay and get it working. We were able to develop code to make these things work in tandem with each other, and now when the interrupter is interrupted it will set off the relay. We did break a lot of photo interrupters in the process but it feels good to finally get it working. The code we developed today is pictured below.
+
+## 5/26/21
+### Milestone: Completed 36v single stage trigger enabled projectile launch
+Today we finished our extremely janky prototype of a single stage 36v coil launcher. The janky test rig is trigger controlled, meaning that when you press the button the projectile is launched. We had some very promising results with the projectile moving fairly fast givin that this is only a third of the volatage we would like to use and a fifth of th stages we would like to use. I am sure that in the future when our connections arent just alligator clips and held in place, and when our photointerruptor isn't dangly and hot glued on we will have better results. 
