@@ -1,6 +1,7 @@
 ## 5/12/21
 Milestone: Battery vs. Power Supply vs. Capacitor
 
+
 Today we did a little testing regarding whether we wanted to use a battery or a capacitor to power the coils we are using to propel the steel object. When testing our 4 
 capacitor bank charged to 36v, we found that it performed less well than our 3x 12v Pb battery series (36v). Our theory as to why this is the case is that the buildup is important 
 in gaining as much speed as possible, which is why the battery performed better, because it didn’t release all its energy at once. It’s important to keep in mind that the battery 
