@@ -31,3 +31,6 @@ Today we finally managed to both wire the photo interrupter to the coil and get 
 ## 5/26/21
 ### Milestone: Completed 36v single stage trigger enabled projectile launch
 Today we finished our extremely janky prototype of a single stage 36v coil launcher. The janky test rig is trigger controlled, meaning that when you press the button the projectile is launched. We had some very promising results with the projectile moving fairly fast givin that this is only a third of the volatage we would like to use and a fifth of th stages we would like to use. I am sure that in the future when our connections arent just alligator clips and held in place, and when our photointerruptor isn't dangly and hot glued on we will have better results. 
+
+## 5/27/21
+Today we rewired our test bench for cleaness and organizational purposes. 
