@@ -36,4 +36,4 @@ Today we finished our extremely janky prototype of a single stage 36v coil launc
 Today we rewired our test bench for cleaness and organizational purposes. 
 
 ## 6/2/21
-Today we started designing the new coils. We also cut our projectile to the desired length of roughly 90mm.
+Today we started designing the new coils. We also cut our projectile to the desired length of roughly 90mm. We also started working on a coil design specifically for prototyping. These coils fit together like lego pieces and include space for our photointerruptors, so we can add and remove stages easily as we wish.
