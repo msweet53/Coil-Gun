@@ -34,3 +34,6 @@ Today we finished our extremely janky prototype of a single stage 36v coil launc
 
 ## 5/27/21
 Today we rewired our test bench for cleaness and organizational purposes. 
+
+## 6/2/21
+Today we started designing the new coils. We also cut our projectile to the desired length of roughly 90mm.
